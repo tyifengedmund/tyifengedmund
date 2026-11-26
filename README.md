@@ -10,6 +10,7 @@ Computer Science student at DigiPen Singapore based in Singapore, building graph
 
 ### GAM100 Project
 - **Scope:** Owned AI State machine logic and gameplay mechanics, did the art for the project.
+- 
 ### External & Independent Builds
 - **Scope:** Worked with roughly 15 people across two external projects and businesses spanning Singapore and overseas markets including the USA.
 - **Current Focus:** Developing full-stack web applications and a drawing and animation app preparing for beta testing.
